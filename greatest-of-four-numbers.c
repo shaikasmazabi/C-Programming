@@ -12,5 +12,5 @@ void main()
     g=c;
     else
     g=d;
-    printf("The greatest number among all 4 is %d",g);
+    printf("The greatest number among %d, %d, %d and %d is %d\n",a,b,c,d,g);
 }

@@ -6,7 +6,7 @@ void arry(int *ptr, int n)
     {
         printf("The value of element %d is %d\n", i+1,*(ptr+i));
        //or
-       //printf("The value of element %d is %d\n",i+1,ptr[i]); 
+       //printf("The value of element %d is %d\n",i+1,ptr[i]);  
 
     }
 }
